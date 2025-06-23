@@ -1,4 +1,5 @@
 # Car Rental System
+![CarRentalSystemImage](https://github.com/user-attachments/assets/83d2c6af-7dfb-4e6a-924e-c96938892b9a)
 
 This project is built using **Java** with a **Swing GUI** developed in **NetBeans IDE**.
 The application allows users to manage car rentals, customer records, and vehicle availability through an interactive desktop interface.
