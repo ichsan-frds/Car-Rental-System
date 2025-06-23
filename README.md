@@ -12,37 +12,45 @@ The application allows users to manage car rentals, customer records, and vehicl
 - Data persistence using MySQL local database
 
 ## Interface
-### Main Menu
-![image](https://github.com/user-attachments/assets/fa70cd54-27a8-4a81-a643-fd512d3f4ea2)
-
-### Register
-![image](https://github.com/user-attachments/assets/1b12fe93-5dee-403b-ba20-49ebaac6b5c2)
-
 ### Login
-![image](https://github.com/user-attachments/assets/e7794ba0-6cd4-4638-becf-4ef1da2637e2)
+![image](https://github.com/user-attachments/assets/a92d0770-a0f0-450a-9597-a7bd295d0e96)
 
-### Admin Menu
-![image](https://github.com/user-attachments/assets/fae51e57-0e5d-488c-b293-0d4491f12ed2)
+### Admin Main Menu
 
-### Books Data
-![image](https://github.com/user-attachments/assets/7074e9ba-07f8-4075-a248-9afc1c185910)
+### Employee Input
+![image](https://github.com/user-attachments/assets/052c64bf-023d-4f49-b5a6-7cb33bb29290)
 
-### Users Data
-![image](https://github.com/user-attachments/assets/105d79df-7430-411f-b3a7-f0759d2af7df)
+### Edit Employee
+![image](https://github.com/user-attachments/assets/bae03528-f5db-4cb4-8e45-c0dcd2a427bd)
 
-### Transactions Data
-![image](https://github.com/user-attachments/assets/dfcff780-70e3-480e-8d33-8f195aed1f68)
+### Car Input
+![image](https://github.com/user-attachments/assets/cf73d8af-a682-4e5e-8170-00c91b9bbce2)
 
-### User Menu
-![image](https://github.com/user-attachments/assets/e85d377b-6b43-4f57-91fb-f2793f0e82e9)
+### Edit Car
+![image](https://github.com/user-attachments/assets/d60c203c-e991-4fd7-a57f-6bbd9f1c5870)
 
-### Borrow Book
-![image](https://github.com/user-attachments/assets/429fa566-160e-4199-bf6f-26319f79d0ac)
+### Transaction Report
+![image](https://github.com/user-attachments/assets/f30caa5b-7e5c-4e7b-b5fb-79f1bba6cef5)
 
-### Return Book
-![image](https://github.com/user-attachments/assets/c4feef02-5860-4de2-9850-baf13c0a58d8)
+### User Main Menu
+![image](https://github.com/user-attachments/assets/8b17b210-5bde-4331-9061-e0cbe9a4872f)
+
+### Customer Input
+![image](https://github.com/user-attachments/assets/03105ede-cef2-4042-9f04-ca818a5e91d0)
+
+### Edit Customer
+![image](https://github.com/user-attachments/assets/946266a3-99f4-4821-9b97-abda130b5746)
+
+### Car Catalog
+![image](https://github.com/user-attachments/assets/2e16ec62-9398-41d0-8d72-86895f17beee)
+
+### Borrow Car
+![image](https://github.com/user-attachments/assets/ae04efdf-3431-4ad0-a9af-9932fd119725)
+
+### Return Car
+![image](https://github.com/user-attachments/assets/a0ffe4f0-21fb-4999-885a-53808fb7d006)
 
 ## Installation
 1. Setup the MySQL database by running **DB_CREATION.sql** and change the database content to your likings
-2. Change the src > Backend > **Koneksi.java** database URL to your database location
-3. Run the **Main.java**
+2. Change the src > code > **koneksi.java** database URL to your database location
+3. Run the program
